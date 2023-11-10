@@ -1,1 +1,7 @@
 # Speaker-Identification-Using-Deep-Network
+
+This study investigates the efficacy of various deep learning models in the field of speech recognition, including multilayer perceptrons (MLP), convolutional neural networks (CNN), recurrent neural networks (RNN), and long short-term memory (LSTM). The study traces the evolution of speech recognition from its origins in the mid-20th century, through advances in digital signal processing, to the current application of sophisticated deep learning techniques. 
+The methodology of the study involves a comparative analysis of the above-mentioned models, evaluating their performance in terms of accuracy and loss metrics. The results show that the CNN model exhibits high accuracy and effectiveness in speaker identification tasks.
+Furthermore, LSTM models, known for their ability to process time series data, showed promising results, suggesting that their structural advantages make them particularly suitable for sequential data processing in speech recognition tasks. 
+Overall, the findings confirm that deep learning models, especially LSTM, have great potential to advance the field of speech recognition. 
+The research contributes to the ongoing discussion in the scientific community about the utility of deep learning in this field and lays the foundation for future research. It recommends exploring hybrid models that leverage the strengths of various neural network architectures to improve the robustness and accuracy of speech recognition systems.
